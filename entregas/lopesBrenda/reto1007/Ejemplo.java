@@ -1,4 +1,4 @@
-package entregas.lopesBrenda.reto1007;
+
 
 class Ejemplo {
     public static void main(String[] args) {
